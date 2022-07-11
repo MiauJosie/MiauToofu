@@ -9,4 +9,5 @@ focando em aprender React e suas tecnologias para desenvolvimento front-end.
 
   <hr>
   <h4>Contact Me!</h4>
-  <div style="display:flex; flex-direction:row; align-items:center;"><img src="https://camo.githubusercontent.com/c78432996441eaf43ff8aaeb57f1029b1d22fabb2556f4df7972f949f1fe18ab/68747470733a2f2f6c6f676f646f776e6c6f61642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031372f31312f646973636f72642d6c6f676f2d342d312e706e67" style="width:50px;">@Victória#7281</div>
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="25" align="left"> [Linked In](https://www.linkedin.com/in/vict%C3%B3ria-rose-4a90b6233/) (professional) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/2048px-Circle-icons-dev.svg.png" width="25" align="left"> [dev.to](https://dev.to/victoriarose) (articles) | <img src="https://alexdunndev.files.wordpress.com/2017/09/nuget-icon.png?w=306" width="25" align="left"> [nuget](https://www.nuget.org/profiles/victoriaquasar) (.NET packages) | <img src="https://media.glassdoor.com/sqll/1058449/npm-squarelogo-1442043935395.png" width="25" align="left"> [npm](https://www.npmjs.com/settings/eternalquasar8486/packages) (JS/TS packages) |
+| - | - | - | - |
