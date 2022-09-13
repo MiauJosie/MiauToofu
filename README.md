@@ -9,12 +9,7 @@ focando em aprender React e suas tecnologias para desenvolvimento front-end.
        height="180px"
   />
   <img 
-       src="
-            https://github-readme-stats.vercel.app/api/top-langs/?username=MiauToofu
-            &layout=compact
-            &langs_count=6
-            &bg_color=deg,blue,white
-           "
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiauToofu&layout=compact&langs_count=6&bg_color=deg,blue,white"
        height="180px"
   />
 </div>
