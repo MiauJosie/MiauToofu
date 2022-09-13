@@ -13,7 +13,7 @@ focando em aprender React e suas tecnologias para desenvolvimento front-end.
             https://github-readme-stats.vercel.app/api/top-langs/?username=MiauToofu
             &layout=compact
             &langs_count=6
-            &bg_color=DEG,BLUE,WHITE
+            &bg_color=deg,blue,white
            "
        height="180px"
   />
