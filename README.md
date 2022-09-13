@@ -6,10 +6,10 @@ focando em aprender React e suas tecnologias para desenvolvimento front-end.
 <div>
   <img 
        src="https://github-readme-stats.vercel.app/api?username=MiauToofu&theme=dark"
-       height="150px"
+       height="180px"
   >
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiauToofu&theme=dark"
-       height="150px"
+       height="180px"
   >
 </div>
