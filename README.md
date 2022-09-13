@@ -11,6 +11,7 @@ focando em aprender React e suas tecnologias para desenvolvimento front-end.
   >
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiauToofu&theme=dark"
-       height="50%"
+       height="180px"
+       width="50%"
   >
 </div>
