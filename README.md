@@ -1,4 +1,4 @@
-  <h3>👾 Welcome, I'm Victória!</h3>
+  <h3>Olá! eu sou Josie Victória</h3>
   <hr>
   
 I'm a software engineering student currently focusing in Web Development with HTML, Css and JavaScript. Atualmente 
