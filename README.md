@@ -3,7 +3,7 @@
 I'm a software engineering student currently focusing in Web Development with HTML Css and JavaScript.<br> Atualmente 
 focando em aprender React e suas tecnologias para desenvolvimento front-end.
 
-<div width="800px">
+<div>
   <img 
        src="https://github-readme-stats.vercel.app/api?username=MiauToofu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
        height="160px"
