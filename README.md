@@ -14,7 +14,7 @@ focando em aprender React e suas tecnologias para desenvolvimento front-end.
             &theme=dark
             &layout=compact
             &langs_count=6
-            &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+            &bg_color=DEG,#5555,#2222,#3333
            "
        height="180px"
   />
