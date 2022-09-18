@@ -28,7 +28,7 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiauToofu&layout=compact&langs_count=7&theme=nord"/>
     
   </div>
-  <h1></h1>
+  <hr>
   <div align="center">
   
 [![Twitter: MiauJosie](https://img.shields.io/twitter/follow/MiauJosie?style=social)](https://twitter.com/MiauJosie)
