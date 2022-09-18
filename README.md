@@ -1,10 +1,2 @@
-## Hey! Meu nome é Victória.
-
-<div>
-  <div align="left">
-    a
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiauToofu&theme=dark&layout=compact&langs_count=6&count_private=true"
-       height="160px"
-       align="right"/>
-</div>
+<h2>Hey! I'm Josie Victória</h2>
+<img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=790b761163e93501300823f55a2e2f76111cc81a16f13895&rid=giphy.gif&ct=g" width="200" align="right">
