@@ -26,8 +26,6 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MiauToofu&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiauToofu&layout=compact&langs_count=7&theme=darcula"/>
 
-<br>
-
 [![Twitter: MiauJosie](https://img.shields.io/twitter/follow/MiauJosie?style=social)](https://twitter.com/MiauJosie)
 [![Linkedin: josievictória](https://img.shields.io/badge/-josievictória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josievictória/)](https://www.linkedin.com/in/josievictória/)
 [![GitHub MiauToofu](https://img.shields.io/github/followers/MiauToofu?label=follow&style=social)](https://github.com/MiauToofu)
