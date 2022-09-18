@@ -22,12 +22,7 @@
   <h1></h1>
   <div align="center">
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiauToofu)](https://github.com/MiauToofu/github-readme-stats)
 
 [![Twitter: MiauJosie](https://img.shields.io/twitter/follow/MiauJosie?style=social)](https://twitter.com/MiauJosie)
 [![Linkedin: josievictória](https://img.shields.io/badge/-josievictória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josievictória/)](https://www.linkedin.com/in/josievictória/)
