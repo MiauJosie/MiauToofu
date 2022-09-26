@@ -9,10 +9,10 @@
   ```js
   const josieVictoria = {
     pronouns: ["She/Her"],
-    code: [HTML, CSS, JavaScript],
-    tools: [Node],
-    learning: [TypeScript, React, GraphQL],
-    challenge: ["I am preparing to do the woovi-challenge"],
+    code: [HTML, CSS],
+    tools: [],
+    learning: [Javascript, Typescript],
+    challenge: [""],
     extra: {
       hobbies: ["Taking care of cats", "Cats", "Cuddling with my cat"]
     }
