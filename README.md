@@ -12,7 +12,7 @@
     code: [HTML, CSS],
     tools: [],
     learning: [Javascript, Typescript],
-    challenge: [""],
+    ProjectEuler: [""],
     extra: {
       hobbies: ["Taking care of cats", "Cats", "Cuddling with my cat"]
     }
