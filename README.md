@@ -10,7 +10,7 @@
   const josieVictoria = {
     pronouns: ["She/Her"],
     code: [HTML, CSS],
-    tools: [],
+    tools: [NodeJS],
     learning: [Javascript, Typescript],
     ProjectEuler: ["https://github.com/MiauToofu/PROJECTEULER-problems-solved"],
     extra: {
