@@ -12,7 +12,7 @@
     code: [HTML, CSS],
     tools: [],
     learning: [Javascript, Typescript],
-    ProjectEuler: [""],
+    ProjectEuler: ["https://github.com/MiauToofu/PROJECTEULER-problems-solved"],
     extra: {
       hobbies: ["Taking care of cats", "Cats", "Cuddling with my cat"]
     }
