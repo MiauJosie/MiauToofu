@@ -11,7 +11,7 @@
     pronouns: ["She/Her"],
     code: [HTML, CSS],
     tools: [NodeJS],
-    learning: [Javascript, Typescript],
+    learning: [Javascript, React],
     ProjectEuler: ["https://github.com/MiauToofu/PROJECTEULER-problems-solved"],
     extra: {
       hobbies: ["Taking care of cats", "Cats", "Cuddling with my cat"]
