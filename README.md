@@ -3,7 +3,7 @@
   <div align="left">
     I'm a software engineering student currently focusing in learning Web Development with JavaScript, CSS/HTML and React.
   <div align="left">
-    <img align="left" src="https://cdn.discordapp.com/attachments/932684797095084043/1021119705253167274/giphy.webp" width="180">  
+    <img align="left" src="https://cdn.discordapp.com/attachments/932684797095084043/1021119705253167274/giphy.webp" width="200">  
   
   ### More about me...
   ```js
