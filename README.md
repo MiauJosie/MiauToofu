@@ -16,6 +16,7 @@
     extra: {
       hobbies: ["Taking care of cats", "Cats", "Cuddling with my cat"]
     }
+}
   ```
     
   </div>
