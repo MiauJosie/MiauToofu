@@ -1,7 +1,7 @@
 ## Hey! I'm Josie Victória
 <div>
   <div align="left">
-    I'm a software engineering student currently focusing in learning Web Development with JavaScript, CSS/HTML and React.
+    I'm a software engineering student currently learning C# on the .NET plataform.
   <div align="left">
     <img align="left" src="https://cdn.discordapp.com/attachments/932684797095084043/1021119705253167274/giphy.webp" width="200">  
   
@@ -10,9 +10,9 @@
   const josieVictoria = {
     pronouns: ["She/Her"],
     code: [HTML, CSS],
-    tools: [NodeJS],
-    learning: [Javascript, React],
-    ProjectEuler: ["https://github.com/MiauToofu/PROJECTEULER-problems-solved"],
+    tools: [NodeJS, .NET],
+    learning: [Javascript, C#],
+    ProjectEuler: ["???"],
     extra: {
       hobbies: ["Taking care of cats", "Cats", "Cuddling with my cat"]
     }
