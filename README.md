@@ -11,7 +11,7 @@
     pronouns: ["She/Him"],
     code: [HTML, CSS],
     tools: [NodeJS, NET],
-    learning: [Javascript, C#],
+    learning: [C#, .NET],
     ProjectEuler: ["???"],
 }
   ```
