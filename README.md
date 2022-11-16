@@ -11,7 +11,7 @@
     pronouns: ["They/Them"],
     code: [HTML, CSS, JS],
     learning: [CS, DOTNET],
-    ProjectEuler: [https://github.com/MiauToofu/PROJECTEULER],
+    ProjectEuler: ["https://github.com/MiauToofu/PROJECTEULER"],
 }
   ```
     
