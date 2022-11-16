@@ -8,7 +8,7 @@
   ### More about me...
   ```js
   const josieVictoria = {
-    pronouns: ["She/Him"],
+    pronouns: ["They/Them"],
     code: [HTML, CSS, JS],
     learning: [CS, DOTNET],
     ProjectEuler: ["???"],
