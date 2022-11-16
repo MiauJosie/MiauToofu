@@ -10,7 +10,7 @@
   const josieVictoria = {
     pronouns: ["She/Him"],
     code: [HTML, CSS],
-    tools: [NodeJS, .NET],
+    tools: [NodeJS, dotNET],
     learning: [Javascript, C#],
     ProjectEuler: ["???"],
     extra: {
