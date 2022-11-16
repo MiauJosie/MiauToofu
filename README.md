@@ -9,9 +9,8 @@
   ```js
   const josieVictoria = {
     pronouns: ["She/Him"],
-    code: [HTML, CSS],
-    tools: [NodeJS, NET],
-    learning: [C#, .NET],
+    code: [HTML, CSS, JS],
+    learning: [C#, dotNET],
     ProjectEuler: ["???"],
 }
   ```
