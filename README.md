@@ -13,9 +13,6 @@
     tools: [NodeJS, dotNET],
     learning: [Javascript, C#],
     ProjectEuler: ["???"],
-    extra: {
-      hobbies: ["Taking care of cats", "Cats", "Cuddling with my cat"]
-    }
 }
   ```
     
