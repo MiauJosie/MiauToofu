@@ -29,7 +29,7 @@
     <h1></h1>
   <div align="center">
   
-[![Twitter: MiauJosie](https://img.shields.io/twitter/follow/MiauJosie?style=social)](https://twitter.com/MiauJosie)
+[![Twitter: MiauToofu](https://img.shields.io/twitter/follow/MiauToofu?style=social)](https://twitter.com/MiauToofu)
 [![Linkedin: josievictória](https://img.shields.io/badge/-josievictória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josievictória/)](https://www.linkedin.com/in/josievictória/)
 [![GitHub MiauToofu](https://img.shields.io/github/followers/MiauToofu?label=follow&style=social)](https://github.com/MiauToofu)
 
