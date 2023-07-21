@@ -7,7 +7,7 @@
   
   ### More about me...
   ```js
-  const josieVictoria = {
+  const josieRobin = {
     pronouns: ["They/Them"],
     code: [HTML, CSS, JS],
     learning: [CS, DOTNET],
