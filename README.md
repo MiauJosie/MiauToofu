@@ -1,4 +1,4 @@
-## Hey! I'm Josie Victória
+## Hey! I'm Josie Robin
 <div>
   <div align="left">
     I'm a software engineering student currently learning C# on the .NET plataform.
@@ -29,9 +29,7 @@
     <h1></h1>
   <div align="center">
   
-[![Twitter: MiauToofu](https://img.shields.io/twitter/follow/MiauToofu?style=social)](https://twitter.com/MiauToofu)
-[![Linkedin: josievictória](https://img.shields.io/badge/-josievictória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josievictória/)](https://www.linkedin.com/in/josievictória/)
-[![GitHub MiauToofu](https://img.shields.io/github/followers/MiauToofu?label=follow&style=social)](https://github.com/MiauToofu)
+
 
   </div>
 </div>
